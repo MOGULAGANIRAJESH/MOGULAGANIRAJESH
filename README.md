@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding.
 - 🌱 I’m currently learning Java Full Stack.
 - 💞️ I’m looking to collaborate on IT profession.
-- 📫 How to reach me ...
+- 📫 How to reach me .LinkedIn & Email.
 - 😄 Pronouns: He
 - ⚡ Fun fact: ...
 
